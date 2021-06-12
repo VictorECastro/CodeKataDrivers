@@ -19,11 +19,11 @@ REST API
 1. Download RestAPI folder
 2. Open published folder and add an application in IIS.
 3. Set published folder as physical directory for the application.
-4. configure in web site default.html file the url for the rest api in settings -> url (line 101)
-5. Test REST API call with postman, you can use drivers postman collection included in website folder.
+4. configure in web site default.html file the url for the rest api in settings -> url (line 101) api resides in http://server/api/process
+5. Test REST API call with postman, you can use drivers postman collection included in FilesAndPostman folder.
 6. once the url is configured and API tested you can start using the program.
 
 Open web site
-Select a text file (included in the website folder)
+Select a text file (included in the FilesAndPostman folder)
 Process request and you will see the results.
 
